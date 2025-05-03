@@ -1,8 +1,12 @@
 # MemoApp
 로그인/회원가입 : CoreData + MVVM
+
 메모 저장/조회 : CoreData
+
 이미지 업로드 : PhotosPicker, UIImage(data:)
+
 상태 관리 : @State, @StateObject, @Environment
+
 화면 전환 : NavigationStack, .sheet, .navigationDestination
 
 
